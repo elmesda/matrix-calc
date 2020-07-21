@@ -3,15 +3,15 @@ R version 4.0.2 (2020-06-22) -- "Taking Off Again"
 Copyright (C) 2020 The R Foundation for Statistical Computing
 Platform: x86_64-w64-mingw32/x64 (64-bit)
 
-R est un logiciel libre livré sans AUCUNE GARANTIE.
+R est un logiciel libre livrÃ© sans AUCUNE GARANTIE.
 Vous pouvez le redistribuer sous certaines conditions.
-Tapez 'license()' ou 'licence()' pour plus de détails.
+Tapez 'license()' ou 'licence()' pour plus de dÃ©tails.
 
 R est un projet collaboratif avec de nombreux contributeurs.
 Tapez 'contributors()' pour plus d'information et
-'citation()' pour la façon de le citer dans les publications.
+'citation()' pour la faÃ§on de le citer dans les publications.
 
-Tapez 'demo()' pour des démonstrations, 'help()' pour l'aide
+Tapez 'demo()' pour des dÃ©monstrations, 'help()' pour l'aide
 en ligne ou 'help.start()' pour obtenir l'aide au format HTML.
 Tapez 'q()' pour quitter R.
 
@@ -41,9 +41,4 @@ Tapez 'q()' pour quitter R.
 +   inv <- solve(data)
 +   x$setInverse(inv)
 +   inv      
-+ q()
-+ q()
-+ q()
-+ q()
-+ q()
 + }
